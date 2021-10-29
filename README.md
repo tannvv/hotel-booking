@@ -13,7 +13,7 @@ Technique
 ```
 ## Functional :
 ```
-### 1. Login
+    1. Login
 ```
 - In order to booking, an authentication is required.
 - If the user has not authenticated, the system redirects to the registration page.
@@ -25,7 +25,7 @@ Screen short
 ![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/login-page.png)
 ```
 
-### 2. Display- Search
+    2. Display- Search
 ```
 - List all hotel which has an available room in the system.
 - Each hotel has some kind of room: single, double, family, …
@@ -37,7 +37,7 @@ Screen short
 ![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/index-page.png)
 ```
 
-### 3.Registration
+    3.Registration
 ```
 - Register new user: email as ID, phone, name, address, create date.
 - Create date is current date.
@@ -47,7 +47,7 @@ Screen short
 ![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/register-page.png)
 ```
 
-### 4. Booking
+    4. Booking
 ```
 - All users can use this function except admin role (login is required)
 - Add the selected room to booking cart.
@@ -64,14 +64,14 @@ Screen short (list cart in session)
 ![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/cart-page.png)
 ```
 
-### 5. Booking history
+    5. Booking history
 ```
 - User can take over the booking history: list of booking order by booking date.
 - Support search function: search by name or booking date
 Screen short
 ![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/history-page.png)
 ```
-### 6. Booking confirm by email
+     6. Booking confirm by email
 ```
 Screen short
 ![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/emai-page.png)
