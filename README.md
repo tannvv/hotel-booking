@@ -22,7 +22,7 @@ available user list, then grant the access permission. If not, a message would a
 not found.
 - Login function is required for shopping.
 Screen short
-![Image of Yaktocat](https://github.com/tannvv/hotel-web/images/login-page.png)
+![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/login-page.png)
 ```
 
 ### 2. Display- Search
@@ -34,7 +34,7 @@ Screen short
 amount of room. 
 - All users can use this function (login is not required)
 Screen short
-![Image of Yaktocat](https://github.com/tannvv/hotel-web/images/index-page.png)
+![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/index-page.png)
 ```
 
 ### 3.Registration
@@ -44,7 +44,7 @@ Screen short
 - The default status of new user is active.
 - Password must be encrypted using SHA-256 before store in database.
 Screen short
-![Image of Yaktocat](https://github.com/tannvv/hotel-web/images/register-page.png)
+![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/register-page.png)
 ```
 
 ### 4. Booking
@@ -59,9 +59,9 @@ total. The screen must show the total amount of money of this cart.
 - Click the Confirm button to store the booking to database (must store the buy date time). The warning 
 message will show if the selected room is out of stock.
 Screen short (select room type)
-![Image of Yaktocat](https://github.com/tannvv/hotel-web/images/detail-page.png)
+![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/detail-page.png)
 Screen short (list cart in session)
-![Image of Yaktocat](https://github.com/tannvv/hotel-web/images/cart-page.png)
+![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/cart-page.png)
 ```
 
 ### 5. Booking history
@@ -69,12 +69,12 @@ Screen short (list cart in session)
 - User can take over the booking history: list of booking order by booking date.
 - Support search function: search by name or booking date
 Screen short
-![Image of Yaktocat](https://github.com/tannvv/hotel-web/images/history-page.png)
+![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/history-page.png)
 ```
 ### 6. Booking confirm by email
 ```
 Screen short
-![Image of Yaktocat](https://github.com/tannvv/hotel-web/images/email-page.png)
+![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/emai-page.png)
 ```
 ```
 
