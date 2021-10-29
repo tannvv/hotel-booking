@@ -6,10 +6,15 @@
 * The java source code used to demonstrate a simple hotel booking website
 Technique
 * Java JSP and servlet
-* Maven is used to built this website
 * This website is built on the MVC2 model
 * The .gitignore & README.md files to manage this repo itseft
 * ...
+```
+## Environment :
+```
+- Netbeans 12.0
+- JDK 15
+- Apache maven 3.8
 ```
 ## Functional :
 ```
@@ -21,7 +26,7 @@ Technique
 available user list, then grant the access permission. If not, a message would appear no notify that user is 
 not found.
 - Login function is required for shopping.
-Screen short
+-Screen short
 ![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/login-page.png)
 ```
 
@@ -33,7 +38,7 @@ Screen short
 - User can find the room based on hotel name or hotel area and check in date and check out date and 
 amount of room. 
 - All users can use this function (login is not required)
-Screen short
+-Screen short
 ![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/index-page.png)
 ```
 
@@ -43,7 +48,7 @@ Screen short
 - Create date is current date.
 - The default status of new user is active.
 - Password must be encrypted using SHA-256 before store in database.
-Screen short
+-Screen short
 ![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/register-page.png)
 ```
 
@@ -58,9 +63,9 @@ total. The screen must show the total amount of money of this cart.
 - User can update amount of each room in cart.
 - Click the Confirm button to store the booking to database (must store the buy date time). The warning 
 message will show if the selected room is out of stock.
-Screen short (select room type)
+-Screen short (select room type)
 ![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/detail-page.png)
-Screen short (list cart in session)
+-Screen short (list cart in session)
 ![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/cart-page.png)
 ```
 
@@ -68,13 +73,13 @@ Screen short (list cart in session)
 ```
 - User can take over the booking history: list of booking order by booking date.
 - Support search function: search by name or booking date
-Screen short
+-Screen short
 ![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/history-page.png)
 ```
      6. Booking confirm by email
 ```
-Screen short
-![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/emai-page.png)
+-Screen short
+![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/email-page.png)
 ```
 ```
 
