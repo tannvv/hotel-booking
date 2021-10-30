@@ -26,7 +26,7 @@ Technique
 available user list, then grant the access permission. If not, a message would appear no notify that user is 
 not found.
 - Login function is required for shopping.
--Screen short
+- Screen short
 ![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/login-page.png)
 ```
 
@@ -38,7 +38,7 @@ not found.
 - User can find the room based on hotel name or hotel area and check in date and check out date and 
 amount of room. 
 - All users can use this function (login is not required)
--Screen short
+- Screen short
 ![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/index-page.png)
 ```
 
@@ -48,7 +48,7 @@ amount of room.
 - Create date is current date.
 - The default status of new user is active.
 - Password must be encrypted using SHA-256 before store in database.
--Screen short
+- Screen short
 ![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/register-page.png)
 ```
 
@@ -65,7 +65,7 @@ total. The screen must show the total amount of money of this cart.
 message will show if the selected room is out of stock.
 -Screen short (select room type)
 ![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/detail-page.png)
--Screen short (list cart in session)
+- Screen short (list cart in session)
 ![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/cart-page.png)
 ```
 
@@ -73,12 +73,12 @@ message will show if the selected room is out of stock.
 ```
 - User can take over the booking history: list of booking order by booking date.
 - Support search function: search by name or booking date
--Screen short
+- Screen short
 ![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/history-page.png)
 ```
      6. Booking confirm by email
 ```
--Screen short
+- Screen short
 ![Image of Yaktocat](https://github.com/tannvv/hotel-booking/blob/main/images/email-page.png)
 ```
 ```
